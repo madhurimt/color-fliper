@@ -1,0 +1,15 @@
+nav{
+    height:3rem;
+    display: flex;
+    justify-content: space-around;
+    border:2px solid black;
+    align-items: center;
+}
+
+.flipper{
+    width:90%;
+    border:2px solid black;
+    text-align: center;
+    margin:200px auto;
+    padding-bottom: 10px;
+}
